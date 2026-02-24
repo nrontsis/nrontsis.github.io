@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.nrontsis.twa",
+    "sha256_cert_fingerprints": [
+      "B4:95:71:26:50:2E:7B:E6:C2:EB:66:67:4F:8C:44:D5:F0:57:4D:12:42:DF:D8:56:70:65:77:ED:23:86:D7:9F"
+    ]
+  }
+}]
